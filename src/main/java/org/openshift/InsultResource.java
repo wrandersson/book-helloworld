@@ -12,7 +12,7 @@ public class InsultResource {
 	public HashMap<String,String> getInsult() {
 		HashMap<String, String> theInsult = new HashMap<String, String>();
 		//theInsult.put("insult", new InsultGenerator().generateInsult());
-		theInsult.put("insult", "insult");
+		theInsult.put("insult", "insult2");
 		return theInsult;
 	}
 }
